@@ -1,9 +1,9 @@
 {
-  "name": "snilek-syntax",
+  "name": "night-snilek-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/snilek-syntax",
+  "version": "0.1.0",
+  "description": "An elegant, cool and sober dark theme. Featuring mainly purple and blue.",
+  "repository": "https://github.com/Alevardi/night-snilek-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
