@@ -9,7 +9,7 @@ I code with those technologies on my day to day.
 I've decided to publish'em because I wanted to share'em with the world. :)
 
 I will be enhancing this theme, but I'm afraid it will be at a slow pace.
-Although, this is a really good theme even as 0.1.0 is been published.
+Although, this is a really good theme even as 0.3.0 is been published.
 
 If you have more time than me, and even better ideas than those who habit my
 mind, feel free to create as much pull requests as you want.
