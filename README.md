@@ -24,7 +24,7 @@ Its almost here! It has a high priority on the roadmap.
 
   ![Javascript code with night Snilek:](https://pbs.twimg.com/media/BxsyPXvIcAAy-Mj.png)
 
-**Jade code with night Snilek:**
+**Pug code with night Snilek:**
 
   ![Jade code with night Snilek:](https://pbs.twimg.com/media/BxsyPXvIcAAy-Mj.png)
 
